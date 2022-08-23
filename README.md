@@ -1,6 +1,6 @@
-### Hi there 👋
-Hi there, I am No.later 👋
-
+### Hi there, I am No.later 👋
+I am a front-end engineer.
+I am preparing for the arrival of Web3.0.
 **Languages:**  
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -8,7 +8,7 @@ Hi there, I am No.later 👋
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776ab?style=for-the-badge&logo=python&logoColor=normal)
+![Python](https://img.shields.io/badge/python-%233776ab?style=for-the-badge&logo=python&logoColor=%234FC08D)
 ![Solidity](https://img.shields.io/badge/solidity-%238a8a8a?style=for-the-badge&logo=solidity&logoColor=normal&link=javascript:();)
 
 | <img align="" height="167px" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=no-later-cn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical" /> | <img height="167px" src="https://github-readme-streak-stats.herokuapp.com/?user=no-later-cn&theme=tokyonight" > |
