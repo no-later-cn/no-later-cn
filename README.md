@@ -9,7 +9,7 @@ Hi there, I am No.later 👋
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776ab?style=for-the-badge&logo=python&logoColor=%232b5b84)
-![Solidity](https://img.shields.io/badge/solidity-%233776ab?style=for-the-badge&logo=python&logoColor=%232b5b84)
+![Solidity](https://img.shields.io/badge/solidity-%233776ab?style=for-the-badge&logo=solidity&logoColor=%232b5b84)
 
 | <img align="" height="167px" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=no-later-cn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical" /> | <img height="167px" src="https://github-readme-streak-stats.herokuapp.com/?user=no-later-cn&theme=tokyonight" > |
 | ------------- | ------------- |
