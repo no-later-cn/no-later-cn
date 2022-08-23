@@ -1,11 +1,9 @@
 ### Hi there, I am No.later 👋
 
-<font color="#42d392">
- I am a front-end engineer.
-</font>
-<p style="color:#42d392;font-size:16px">
- I am preparing for the arrival of Web3.0. :earth_asia:
-</p>
+> I am a front-end engineer.
+> <br/>
+> I am preparing for the arrival of Web3.0. :earth_asia:
+
 **Languages:** 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
