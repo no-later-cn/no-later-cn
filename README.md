@@ -1,10 +1,10 @@
 ### Hi there, I am No.later 👋
-<p style="background:-webkit-linear-gradient(315deg,#42d392 25%,#647eff);">2233222</p>
-> I am a front-end engineer.
-> <br/>
-> I am preparing for the arrival of Web3.0. :earth_asia::earth_asia::earth_asia:
-
-
+<p style="color:#42d392;font-size:16px">
+I am a front-end engineer.
+</p>
+<p style="color:#42d392;font-size:16px">
+ I am preparing for the arrival of Web3.0. :earth_asia:
+</p>
 **Languages:** 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
